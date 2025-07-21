@@ -1,0 +1,52 @@
+{
+  "categories": [
+    {
+      "image": "pizza.png",
+      "path": "Pizza"
+    },
+    {
+      "image": "noodle.png",
+      "path": "Noodles"
+    },
+    {
+      "image": "paasta.png",
+      "path": "Pasta"
+    },
+    {
+      "image": "paratha.png",
+      "path": "Paratha"
+    },
+    {
+      "image": "biryani2.png",
+      "path": "Biryani"
+    },
+    {
+      "image": "burger.png",
+      "path": "Burger"
+    },
+    {
+      "image": "cake.png",
+      "path": "Cakes"
+    },
+    {
+      "image": "chineese.png",
+      "path": "Chinese"
+    },
+    {
+      "image": "chole_bature.png",
+      "path": "Chole-bature"
+    },
+    {
+      "image": "dosa.png",
+      "path": "Dosa"
+    },
+    {
+      "image": "gulabjaman.png",
+      "path": "Gulab-jamun"
+    },
+    {
+      "image": "icecream.png",
+      "path": "Ice-creams"
+    }
+  ]
+}

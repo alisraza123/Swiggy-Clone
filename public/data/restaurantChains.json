@@ -1,0 +1,104 @@
+{
+  "restaurantChains": [
+    {
+      "image": "https://blog.pizzahut.com/wp-content/uploads/2025/03/PIZZA_HUT__Cheesy_Bites-1024x585.jpg",
+      "offer": "Items at ₹179",
+      "title": "Pizza Hut",
+      "rating": 4.2,
+      "minTime": 30,
+      "maxTime": 40,
+      "name": "Pizzas",
+      "place": "New Jodhpur"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/4bd674_e9bb0ece9b884475b8c0ca689736a0f0~mv2.png/v1/fill/w_768,h_768,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/4bd674_e9bb0ece9b884475b8c0ca689736a0f0~mv2.png",
+      "offer": "₹50 OFF ABOVE ₹199",
+      "title": "Janta Sweet Home",
+      "rating": 4.5,
+      "minTime": 35,
+      "maxTime": 40,
+      "name": "Sweets,South Indian",
+      "place": "Shastri Nagar"
+    },
+    {
+      "image": "https://content3.jdmagicbox.com/v2/comp/jodhpur/u5/0291px291.x291.170611150102.c3u5/catalogue/parihaar-bhojnalaya-sardarpura-jodhpur-rajasthani-thali-restaurants-yicipur11q.jpg",
+      "offer": "₹85 OFF ABOVE ₹149",
+      "title": "Parihaar Bhojnalay",
+      "rating": 4.3,
+      "minTime": 35,
+      "maxTime": 40,
+      "name": "North India, Thalis",
+      "place": "Sardarpura"
+    },
+    {
+      "image": "https://b.zmtcdn.com/data/pictures/chains/0/800910/3d5600b9398cfa06682f9fc08a3cd1b1.jpg?fit=around|960:500&crop=960:500;*,*",
+      "offer": "₹70 OFF ABOVE ₹149",
+      "title": "Kwality Walls Frozen",
+      "rating": 4.5,
+      "minTime": 25,
+      "maxTime": 25,
+      "name": "Desserts,Ice Cream",
+      "place": "Chopsani Housing Board"
+    },
+    {
+      "image": "https://b.zmtcdn.com/data/pictures/chains/8/19090678/e38e14bfcb7a06436a358c36386d002d.jpg?fit=around|960:500&crop=960:500;*,*",
+      "offer": "₹1-5 OFF ABOVE ₹179",
+      "title": "The Good Bowl",
+      "rating": 4.4,
+      "minTime": 30,
+      "maxTime": 35,
+      "name": "Biryani, North India",
+      "place": "Shastri Nagar"
+    },
+    {
+      "image": "https://www.hotelierindia.com/cloud/2022/05/25/Belgian-Chocolate-NIC-scaled.jpg",
+      "offer": "₹100 OFF ABOVE ₹499",
+      "title": "NIC Ice Creams",
+      "rating": 4.7,
+      "minTime": 25,
+      "maxTime": 30,
+      "name": "Desserts,Ice Cream",
+      "place": "Sardarpura"
+    },
+    {
+      "image": "https://content.jdmagicbox.com/comp/sabarkantha/p5/9999p2772.2772.180118202628.w8p5/catalogue/dosh-tana-amlet-center-sabarkantha-restaurants-h1sk4gwib1.jpg",
+      "offer": "Items at ₹109",
+      "title": "Dosh Center",
+      "rating": 4.0,
+      "minTime": 35,
+      "maxTime": 40,
+      "name": "South Indian",
+      "place": "Chopsani Housing Board"
+    },
+    {
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/ydutgha5ialdjjz1e8kg",
+      "offer": "₹125 OFF ABOVE ₹349",
+      "title": "Lunch Box - Meals and Thalis",
+      "rating": 4.3,
+      "minTime": 30,
+      "maxTime": 35,
+      "name": "Biryani, North India",
+      "place": "Shastri Nagar"
+    },
+    {
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/ydutgha5ialdjjz1e8kg",
+      "offer": "₹70 OFF ABOVE ₹249",
+      "title": "McDonald's",
+      "rating": 4.4,
+      "minTime": 30,
+      "maxTime": 35,
+      "name": "American",
+      "place": "Rawaton Ka Bass"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQulDXJC2bM_mqlG_W9pxS3PxC8ZfxVu__bXQ&s",
+      "offer": "₹100 OFF ABOVE ₹449",
+      "title": "Kajal's Cake",
+      "rating": 4.5,
+      "minTime": 35,
+      "maxTime": 40,
+      "name": "Cake",
+      "place": "Chopsani Housing Board"
+    }
+  ]
+}

@@ -6,7 +6,12 @@ A **fully responsive**, modern frontend clone of Swiggy — built using **React*
 
 ## 📸 Preview
 
+## 📸 Desktop
+
 ![App Preview](./SnapShots/swiggyDesktop.png)  
+
+## 📸 Mobile
+
 ![App Preview](./SnapShots/swiggyMobile.png)
 
 ---

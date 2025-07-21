@@ -73,7 +73,7 @@ This project is for educational purposes only and is not affiliated with Swiggy.
 
 ### 🧑 Author
 
-**Hassan Raza**  
+**Ali Raza**  
 GitHub: (https://github.com/alisraza123)  
 Email: (alisraza123@gmail.com)  
 

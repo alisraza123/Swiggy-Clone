@@ -6,11 +6,26 @@ A **fully responsive**, modern frontend clone of Swiggy — built using **React*
 
 ## 📸 Preview
 
-![App Preview](./preview.png) 
+![App Preview](./SnapShots/swiggyDesktop.png) 
+![App Preview](./SnapShots/swiggyMobile.png) 
+
 
 ---
 
-<pre>  📦 Swiggy-Clone/ ┣ 📁 public/ ┣ 📁 src/ ┃ ┣ 📁 components/ ┃ ┣ 📁 pages/ ┃ ┣ 📁 assets/ ┃ ┣ 📄 App.jsx ┃ ┗ 📄 index.js ┣ 📄 db.json ← Mock API ┣ 📄 tailwind.config.js ┗ 📄 package.json  </pre>
+## 📁 Folder Structure
+
+📦 Swiggy-Clone/
+┣ 📁 public/
+┣ 📁 src/
+┃ ┣ 📁 components/
+┃ ┣ 📁 pages/
+┃ ┣ 📁 assets/
+┃ ┣ 📄 App.jsx
+┃ ┗ 📄 index.js
+┣ 📄 db.json ← Mock API
+┣ 📄 tailwind.config.js
+┗ 📄 package.json
+
 ---
 
 ## 🛠️ Tech Stack

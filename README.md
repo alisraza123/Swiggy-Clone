@@ -12,8 +12,8 @@ A **fully responsive**, modern frontend clone of Swiggy — built using **React*
 
 ## 🚀 Features
 
-- ⚛️ Built with **React.js**
-- 🎨 Styled using **Tailwind CSS**
+- ⚛️ Built with **React.js
+- 🎨 Styled using **Tailwind CSS
 - 📱 **Fully Responsive** – works on all devices
 - 🔄 SwiperJS based carousels
 - 💡 Modern UI layout, animations & icons

@@ -38,25 +38,6 @@ A **fully responsive**, modern frontend clone of Swiggy — built using **React*
 | SwiperJS     | Sliders/Carousels           |
 | React Icons  | Iconography                 |
 | JSON Server  | Mock API & Data simulation  |
-
----
-
-## 📂 Folder Structure (Expanded)
-
-```
-📆 Swiggy-Clone/
-┣ 📁 public/
-┣ 📁 src/
-┃ ┣ 📁 components/
-┃ ┣ 📁 pages/
-┃ ┣ 📁 assets/
-┃ ┣ 📄 App.jsx
-┃ ┣ 📄 index.js
-┣ 📄 db.json           ← (Mock API)
-┣ 📄 tailwind.config.js
-┣ 📄 package.json
-```
-
 ---
 
 ## 📱 Responsive Screens
@@ -92,8 +73,8 @@ This project is for educational purposes only and is not affiliated with Swiggy.
 ### 🧑 Author
 
 **Hassan Raza**
-GitHub: [@alisraza123](https://github.com/alisraza123)
-Email: [your\_email@example.com](mailto:your_email@example.com)
+GitHub: (https://github.com/alisraza123)
+Email: (alisraza123@gmail.com)
 
 ---
 

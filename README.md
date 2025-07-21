@@ -75,7 +75,7 @@ This project is for educational purposes only and is not affiliated with Swiggy.
 **Hassan Raza**
 GitHub: (https://github.com/alisraza123)
 Email: (alisraza123@gmail.com)
-
+---
 # 📁 Clone the Repository
 git clone https://github.com/alisraza123/Swiggy-Clone.git
 cd Swiggy-Clone
@@ -93,6 +93,7 @@ json-server --watch data/restaurantChains.json --port 5001
 # Optional: Agar json-server installed nahi hai to global install karo
 npm install -g json-server
 
+---
 
 ### 📲 Live Demo
 

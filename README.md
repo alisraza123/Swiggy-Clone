@@ -76,16 +76,23 @@ This project is for educational purposes only and is not affiliated with Swiggy.
 GitHub: (https://github.com/alisraza123)
 Email: (alisraza123@gmail.com)
 
----
-
-### 📁 Clone the Repository
-
-```bash
+# 📁 Clone the Repository
 git clone https://github.com/alisraza123/Swiggy-Clone.git
 cd Swiggy-Clone
-```
 
----
+# 🖥️ Terminal 1: React frontend start karo
+npm install
+npm start
+
+# 🗂️ Terminal 2: JSON Server for category.json
+json-server --watch data/category.json --port 5000
+
+# 🗂️ Terminal 3: JSON Server for restaurantChains.json
+json-server --watch data/restaurantChains.json --port 5001
+
+# Optional: Agar json-server installed nahi hai to global install karo
+npm install -g json-server
+
 
 ### 📲 Live Demo
 

@@ -10,15 +10,17 @@ A **fully responsive**, modern frontend clone of Swiggy — built using **React*
 
 ---
 
-## 🚀 Features
-
-- ⚛️ Built with **React.js
-- 🎨 Styled using **Tailwind CSS
-- 📱 **Fully Responsive** – works on all devices
-- 🔄 SwiperJS based carousels
-- 💡 Modern UI layout, animations & icons
-- 🧾 Powered by **JSON Server** (for API simulation)
-
+📦 Swiggy-Clone/
+├── 📁 public/
+├── 📁 src/
+│ ├── 📁 components/
+│ ├── 📁 pages/
+│ ├── 📁 assets/
+│ ├── 📄 App.jsx
+│ ├── 📄 index.js
+├── 📄 db.json ← Mock API using JSON Server
+├── 📄 tailwind.config.js
+├── 📄 package.json
 ---
 
 ## 🛠️ Tech Stack

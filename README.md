@@ -10,17 +10,7 @@ A **fully responsive**, modern frontend clone of Swiggy — built using **React*
 
 ---
 
-📦 Swiggy-Clone/
-├── 📁 public/
-├── 📁 src/
-│ ├── 📁 components/
-│ ├── 📁 pages/
-│ ├── 📁 assets/
-│ ├── 📄 App.jsx
-│ ├── 📄 index.js
-├── 📄 db.json ← Mock API using JSON Server
-├── 📄 tailwind.config.js
-├── 📄 package.json
+<pre> ``` 📦 Swiggy-Clone/ ┣ 📁 public/ ┣ 📁 src/ ┃ ┣ 📁 components/ ┃ ┣ 📁 pages/ ┃ ┣ 📁 assets/ ┃ ┣ 📄 App.jsx ┃ ┗ 📄 index.js ┣ 📄 db.json ← Mock API ┣ 📄 tailwind.config.js ┗ 📄 package.json ``` </pre>
 ---
 
 ## 🛠️ Tech Stack
@@ -94,3 +84,6 @@ Email: your_email@example.com
 ```bash
 git clone https://github.com/alisraza123/Swiggy-Clone.git
 cd Swiggy-Clone
+
+### Live Demo
+Link: https://fancy-swiggy.netlify.app/

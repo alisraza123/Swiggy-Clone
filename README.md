@@ -10,7 +10,7 @@ A **fully responsive**, modern frontend clone of Swiggy — built using **React*
 
 ---
 
-<pre> ``` 📦 Swiggy-Clone/ ┣ 📁 public/ ┣ 📁 src/ ┃ ┣ 📁 components/ ┃ ┣ 📁 pages/ ┃ ┣ 📁 assets/ ┃ ┣ 📄 App.jsx ┃ ┗ 📄 index.js ┣ 📄 db.json ← Mock API ┣ 📄 tailwind.config.js ┗ 📄 package.json ``` </pre>
+<pre>  📦 Swiggy-Clone/ ┣ 📁 public/ ┣ 📁 src/ ┃ ┣ 📁 components/ ┃ ┣ 📁 pages/ ┃ ┣ 📁 assets/ ┃ ┣ 📄 App.jsx ┃ ┗ 📄 index.js ┣ 📄 db.json ← Mock API ┣ 📄 tailwind.config.js ┗ 📄 package.json  </pre>
 ---
 
 ## 🛠️ Tech Stack

@@ -1,11 +1,11 @@
 --
 # 🍽️ Swiggy Clone - Food Delivery UI
 # A fully responsive, modern frontend clone of Swiggy — built using React, Tailwind CSS, React Icons, and Swiper. Data is served via a mock API using JSON Server.
----
+
 # 📸 Preview
 # ![App Preview](./SnapShots/swiggyDesktop.png)
 # ![App Preview](./SnapShots/swiggyMobile.png)
----
+
 # 📁 Folder Structure
 # 📆 Swiggy-Clone/
 # ┣ 📁 public/
@@ -18,7 +18,7 @@
 # ┣ 📄 db.json          ← Mock API
 # ┣ 📄 tailwind.config.js
 # ┗ 📄 package.json
----
+
 # 🛠️ Tech Stack
 # React - Frontend UI
 # Tailwind CSS - Styling & Responsive Design
@@ -72,3 +72,4 @@ npm install -g json-server
 
 # 📲 Live Demo
 # Link: https://fancy-swiggy.netlify.app/
+---
